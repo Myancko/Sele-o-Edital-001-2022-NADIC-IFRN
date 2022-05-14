@@ -1,0 +1,2 @@
+quando for rodar o codigo no visual, selecione essa pasta e rode
+o codigo atravez dela

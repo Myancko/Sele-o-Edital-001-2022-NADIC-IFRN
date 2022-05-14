@@ -1,0 +1,7 @@
+sim
+Numero de voto: 1
+Nome: ANÔNIMO
+CPF: 023.213.323-21
+Data de Nascimento: 02/02/2002
+Endereço: 213
+Discrição:  

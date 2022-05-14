@@ -1,0 +1,8 @@
+pessoa = open ('Informaçoes_dos_candidatos/'+ contador + '.txt', 'w', encoding=  'utf-8')
+            pessoa.write("sim\nNumero de Voto = {} (esse numero é gerado automaticamente pelo sistema)\nNome = {}\nCPF = {}\nData de Nascimento = {}\nEndereço = {}\nDiscrição = {}".format(contador, nome, cpf, data_nascimento, endereco, descricao))
+            pessoa.close()
+            totalC = open("Informaçoes_dos_candidatos/total_de_candidatos.txt", 'w')
+            totalC.write(contador,"Esse txt armazena o total de candidatos armazenados no sistema, para fins de usar em um loop")
+            loop = False
+
+Consolas, 'Courier New', monospace

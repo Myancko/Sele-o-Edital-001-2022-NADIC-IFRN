@@ -1,0 +1,11 @@
+s Votacao 6
+Nome da Votacao: teste hora
+Data de Inicio: 28/02/2022 02:02
+Data de Finalizacao: 13/05/2022 02:05
+Quantidade de candidatos: 2
+Descricao da Votação: anda crl
+Canditado 1 = UWU
+Canditado 2 = MYA
+
+Numero de CPF cadastrados:
+ = = = = = = = = = = = = = = = = = = = = = = = = =ESSA VOTAÇÃO JA FOI ENCERRADA = = = = = = = = = = = = = = = = = = = = = = = = = =ESSA VOTAÇÃO JA FOI ENCERRADA = = = = = = = = = = = = = = = = = = = = = = = = = =ESSA VOTAÇÃO JA FOI ENCERRADA = = = = = = = = = = = = = = = = = = = = = = = = = =ESSA VOTAÇÃO JA FOI ENCERRADA =
