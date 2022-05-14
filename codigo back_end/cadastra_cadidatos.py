@@ -13,7 +13,7 @@ def Cadastrar_Candidato ():
     print("Digite o Nome Completo.")
     nome = str(input(">>> "))
     if len(nome) <= 1 :
-        nome = 'anônimo'
+        nome = 'anonimo'
         nome = nome.upper()
     else:
         nome = nome.upper()

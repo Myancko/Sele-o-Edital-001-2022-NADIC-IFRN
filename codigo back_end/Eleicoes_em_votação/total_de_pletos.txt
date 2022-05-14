@@ -1,3 +1,0 @@
-1
-Esse txt armazena o total de votacoes no sistema para fins de usar em um loop.
-Caso alguma votação seja deletada esse txt estara incorreto e sera atualizado quando a proxima votação for criada.

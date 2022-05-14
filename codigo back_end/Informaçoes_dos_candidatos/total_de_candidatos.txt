@@ -1,2 +1,0 @@
-2
-Esse txt armazena o total de candidatos armazenados no sistema, para fins de usar em um loop
