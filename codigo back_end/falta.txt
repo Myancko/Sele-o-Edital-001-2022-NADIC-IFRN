@@ -1,4 +1,4 @@
 (-fazer o login-) esquece :(
 armazernar as informaçoes de quem votou /okay :)
-bloquear quem votou pra nao votar dnv /+ou-
+bloquear quem votou pra nao votar dnv /okay :)
 adicionar um contador de votos /okay :)
