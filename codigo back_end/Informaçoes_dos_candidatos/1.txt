@@ -1,0 +1,7 @@
+sim
+Numero de voto: 1
+Nome: JORGIN
+CPF: 023.00.004-0
+Data de Nascimento: 01/05/1980
+Endereço: Sp, Liberdade
+Discrição:  Ser Humano

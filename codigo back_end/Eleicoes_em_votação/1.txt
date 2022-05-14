@@ -1,0 +1,17 @@
+s Votacao 1
+Nome da Votacao: Moradia
+Data de Inicio: 28/02/2020 02:02
+Data de Finalizacao: 21/02/2024 05:00
+Quantidade de candidatos: 1
+Descricao da Votação: quem vai ganhar uma casa
+Canditado 1 = JORGIN
+
+Numero de CPF cadastrados:
+
+213.213.231-13
+Canditado 1 = JORGIN  +1 voto
+
+Numero de votos candidato JORGIN = 1
+Total de Votos = 1
+Data da Contagem: 13/05/2022 22:10 Dia = sexta-feira
+----------------------------------------------------------------------------------------------------

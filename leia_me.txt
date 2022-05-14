@@ -1,2 +1,8 @@
-quando for rodar o codigo no visual, selecione essa pasta e rode
-o codigo atravez dela
+quando for rodar o codigo no visual, selecione essa pasta  'codigo back_end' e rode o codigo.
+
+(quando for usar:
+primeiro crie um ou mais candidatos [se não, n sera possivel adicionar cadidatos as votaçoes]
+segundo crie as votacoes 
+terceiro vote com o CPF
+e quando achar que ja votaram o suficiente ou se a data da votação ja passou,
+faça a contagem dos votos e olhe no final do txt da votação o resultado.)

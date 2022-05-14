@@ -17,7 +17,7 @@ def Cadastrar_Candidato ():
         nome = nome.upper()
     else:
         nome = nome.upper()
-
+    
     a, cpf = verificar_cpf()
 
     print("Esse é o CPF", cpf)

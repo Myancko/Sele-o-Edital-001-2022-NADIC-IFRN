@@ -26,7 +26,7 @@ os.system("cls")
 
 def criar_pleito ():
 
-    print("Digite o nome para o Pleto")
+    print("Digite o nome para o Pleito")
     nome_do_pleto = str(input("\n>>> "))#nome do pleto
     os.system("cls")
     big_one = True
